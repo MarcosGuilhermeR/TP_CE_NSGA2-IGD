@@ -43,7 +43,7 @@ z =[0.0                     1.0
 soma_igd = 0;
 menor_igd = inf;
 maior_igd = 0;
-for t=1: 1
+for t=1: 20
     %Definition individual
     individual.x=[];
     individual.cost=[];
